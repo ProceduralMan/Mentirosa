@@ -1,0 +1,22 @@
+{
+    "name": "proceduralman/Mentirosa",
+    "description": "An alternative to the archived Faker library from François Zaninotto",
+    "type": "library",
+    "homepage": "https://github.com/ProceduralMan/Mentirosa",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "license": "LGPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Procedural Man",
+            "email": "pr0c3dur4lman@gmail.com"
+        }
+    ],
+    "support": {
+        "email": "pr0c3dur4lman@gmail.com",
+        "issues": "https://github.com/ProceduralMan/Mentirosa/issues"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
